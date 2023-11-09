@@ -1,7 +1,7 @@
 """
-Date: 18 january 2021
-Author: Sanam kandar
-Project: Student library management system
+Date: 9 November 2023
+Author: Riya
+Project: library management system
 """
 
 
